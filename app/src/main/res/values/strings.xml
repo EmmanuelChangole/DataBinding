@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Binding</string>
+    <string name="email">email@gmail.com</string>
+    <string name="name">name</string>
+</resources>
